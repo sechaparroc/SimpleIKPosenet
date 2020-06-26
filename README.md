@@ -32,7 +32,7 @@ The Processing sketch uses a experimental distribution of the [nub](https://gith
  $ node index.js
  ```
 
-5. Open <http://localhost:3000> to interact with the p5.js posenet example.
+5. Open <http://127.0.0.1:3000> to interact with the p5.js posenet example.
 
 6. Run the posenetSketch in Processing.
 
