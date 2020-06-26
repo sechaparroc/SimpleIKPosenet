@@ -38,7 +38,7 @@ function draw() {
   translate(width, 0);
   scale(-1,1);
   image(video, 0, 0, width, height);
-  filter(THRESHOLD);
+  //filter(THRESHOLD);
 
   // We can call both functions to draw all keypoints and the skeletons
   drawKeypoints();
