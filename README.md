@@ -18,7 +18,7 @@ The Processing sketch uses a experimental distribution of the [nub](https://gith
 
 1. Install [Node.js](http://nodejs.org/)
 
-2. Download (nub with IK)[https://github.com/VisualComputing/nub/blob/ik/distribution/nub-7/download/nub.zip] and put it in the Processing libraries folder.
+2. Download [nub with IK](https://github.com/VisualComputing/nub/blob/ik/distribution/nub-7/download/nub.zip) and put it in the Processing libraries folder.
 
 3. Install npm dependencies
 
